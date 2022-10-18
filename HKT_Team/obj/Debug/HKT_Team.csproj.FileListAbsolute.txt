@@ -1,0 +1,42 @@
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\bin\Debug\HKT_Team.exe.config
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\bin\Debug\HKT_Team.exe
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\bin\Debug\HKT_Team.pdb
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.AssemblyReference.cache
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.SuggestedBindingRedirects.cache
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmDangNhap.resources
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.Properties.Resources.resources
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.GenerateResource.cache
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.CoreCompileInputs.cache
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.exe
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.pdb
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmMain.resources
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmQuanLyUser_Main.resources
+E:\C# hay\HKT_Team_Login\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmQuanLyUser_Modifies.resources
+C:\Users\User\Documents\HKT_Team\HKT_Team\bin\Debug\HKT_Team.exe.config
+C:\Users\User\Documents\HKT_Team\HKT_Team\bin\Debug\HKT_Team.exe
+C:\Users\User\Documents\HKT_Team\HKT_Team\bin\Debug\HKT_Team.pdb
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmDangNhap.resources
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmMain.resources
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmQuanLyUser_Main.resources
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmQuanLyUser_Modifies.resources
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.Properties.Resources.resources
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.GenerateResource.cache
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.exe
+C:\Users\User\Documents\HKT_Team\HKT_Team\obj\Debug\HKT_Team.pdb
+E:\HKT_Team\HKT_Team\bin\Debug\HKT_Team.exe.config
+E:\HKT_Team\HKT_Team\bin\Debug\HKT_Team.exe
+E:\HKT_Team\HKT_Team\bin\Debug\HKT_Team.pdb
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.AssemblyReference.cache
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.SuggestedBindingRedirects.cache
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmDangNhap.resources
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmMain.resources
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmQuanLyUser_Main.resources
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.FrmQuanLyUser_Modifies.resources
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.Properties.Resources.resources
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.GenerateResource.cache
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.csproj.CoreCompileInputs.cache
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.exe
+E:\HKT_Team\HKT_Team\obj\Debug\HKT_Team.pdb
